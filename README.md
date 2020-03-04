@@ -3,7 +3,7 @@
 Clockwork is a browser extension, providing tools for debugging and profiling your PHP applications, including request data, application log, database queries, routes, visualisation of application runtime and more.
 
 
-#Installation
+#Installation#
 This readme contains installation and usage instructions for the Laravel framework, for other integrations check out the Clockwork website.
 
 Install the Clockwork library via Composer.
