@@ -9,7 +9,9 @@ This readme contains installation and usage instructions for the Laravel framewo
 
 Install the Clockwork library via Composer.
 
-$ composer require itsgoingd/clockwork
+$ composer require itsgoingd/clockwork  
+
+
 If you are running the latest Laravel version, congratulations you are done!
 
 For Laravel versions older than 5.5, you'll need to register the service provider, in your config/app.php:
